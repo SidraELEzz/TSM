@@ -29,9 +29,9 @@
 
 ## Follow us on social media
 [![Github](https://img.shields.io/badge/Github-SidraELEzz-orange?style=for-the-badge&logo=github)](https://github.com/SidraELEzz/)
-[![Youtube](https://img.shields.io/badge/Youtube-Subscribe-orange?style=for-the-badge&logo=Youtube)](https://youtube.com/channel/UCUNbzQRjfAXGCKI1LY72DTA)
-[![Instagram](https://img.shields.io/badge/Instagram-RUKS-green?style=for-the-badge&logo=instagram)](https://Instagram.com/_v_go)
 [![Telegram](https://img.shields.io/badge/Telegram-SidraELEzz-orange?style=for-the-badge&logo=Telegram)](https://t.me/SidraTools)
+[![Youtube](https://img.shields.io/badge/Youtube-RUKS-orange?style=for-the-badge&logo=Youtube)](https://youtube.com/channel/UCUNbzQRjfAXGCKI1LY72DTA)
+[![Instagram](https://img.shields.io/badge/Instagram-RUKS-green?style=for-the-badge&logo=instagram)](https://Instagram.com/_v_go)
 [![Telegram](https://img.shields.io/badge/Telegram-RUKS-green?style=for-the-badge&logo=Telegram)](https://t.me/DTDTI)
 
 
