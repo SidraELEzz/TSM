@@ -1,7 +1,8 @@
 
-from TSMRS import check
+from checker_user import check
 
 ck = check()
 
 
-ck.Twitter("yff")
+k=ck.Snapchat("nct")
+print(k)
