@@ -1,5 +1,5 @@
 
-from checker_user import check
+from TSMRS import check
 
 ck = check()
 
