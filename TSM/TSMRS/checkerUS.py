@@ -1,4 +1,4 @@
-By ruks
+# By ruks
 import requests
 from user_agent import generate_user_agent
 class check:
