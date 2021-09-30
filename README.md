@@ -1,3 +1,6 @@
+<h1 align="center">TSM</h1>
+<p align="center">It is a project that includes all social networking sites, and the most important features of the project is a private library whose work is to verify the availability of the user name if it is available or not available on more than one social site</p>
+
 ![](https://img.shields.io/badge/SidraELEzz-RUKS-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
 <a href="#"><img title="Made in UAE" src="https://img.shields.io/badge/MADE%20IN-UAE-red.svg?style=for-the-badge&logo=github"></a>
@@ -25,7 +28,47 @@
 <a href="https://github.com/SidraELEzz/TSM/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SidraELEzz/TSM?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
+## Installation :
+```
+pip install TSMRS
+```
+## ***The method of work***
+* Open a file in a text editor and name the file eg
+TSMRS.py
 
+For example, we will check the username on Snapchat
+```
+python3 TSMRS.py 
+
+from TSMRS import check
+
+ck = check()
+
+Ruks_and_Sidra = ck.Snapchat("username")
+
+print(Ruks_and_Sidra)
+```
+* If the result is 200, this indicates that your Snapchat username is available☑️
+
+* If the result is 404, this indicates that the Snapchat username is not available ❎
+
+## ***The sites available in the project are***
+
+* Instagram
+* Tiktok 
+* Snapchat 
+* Telegramg 
+* Tellonym 
+* Twitch 
+* Xbox 
+* github 
+* Reddit 
+* Gmail 
+* Hotmail 
+* Yahoo 
+* Steam 
+* Sony 
+* Like 
 
 ## Follow us on social media
 [![Github](https://img.shields.io/badge/Github-SidraELEzz-orange?style=for-the-badge&logo=github)](https://github.com/SidraELEzz/)
